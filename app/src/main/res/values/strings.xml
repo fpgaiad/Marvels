@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Marvels</string>
+    <string name="search_hint">Search…</string>
+    <string name="comics">Comics</string>
+    <string name="series">Series</string>
+    <string name="marvels">Marvels</string>
+    <string name="favorites">Favorites</string>
+    <string name="search">Search</string>
 </resources>
